@@ -8,6 +8,7 @@ This is the original structure of the Standardized_XML, primarily consisting of 
 - .XLSX illustrating tag names and descriptions of each
 
 ## v3.0
+(v3.0 is a proposed structure for future updates and has not been implemented yet)
 A more robust structure that expands on the name:value pairs to include additional options fields, enabling more advanced functions
 - .PPT explaining:
   - Changes from v2.9 to v3.0
