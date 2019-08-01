@@ -36,6 +36,12 @@
                   <xs:attribute name="Value" type="xs:string" />
                 </xs:complexType>
               </xs:element>
+			  <xs:element name="Lot_name" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:attribute name="Name" type="xs:string" />
+                  <xs:attribute name="Value" type="xs:string" />
+                </xs:complexType>
+              </xs:element>
               <xs:element name="Type" minOccurs="0" maxOccurs="unbounded">
                 <xs:complexType>
                   <xs:attribute name="Name" type="xs:string" />
