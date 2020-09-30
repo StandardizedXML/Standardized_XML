@@ -9,10 +9,9 @@ This is the original structure of the Standardized_XML, primarily consisting of 
 
 ## v3.0
 (v3.0 is a proposed structure for future updates and has not been implemented yet)
-A more robust structure that expands on the name:value pairs to include additional options fields, enabling more advanced functions
+A proposal for a more robust structure that expands on the name:value pairs to include additional options fields, enabling more advanced functions
 - .PPT explaining:
   - Changes from v2.9 to v3.0
   - Motivation and reasoning behind the changes
   - Intended use cases for the additional fields
-- .XSD defining the schema
-- .XLSX illustrating tag names, descriptions of each, and restrictions to data types and number of characters
+- .XLSX illustrating tag names, descriptions of each, and restrictions to number of characters
